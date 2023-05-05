@@ -10,7 +10,6 @@
     "strapi": "strapi",
     "seed": "node script/seed.js"
   },
-  "devDependencies": {},
   "dependencies": {
     "@ckeditor/strapi-plugin-ckeditor": "^0.0.7",
     "@offset-dev/strapi-calendar": "^0.0.8",
